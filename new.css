@@ -2,15 +2,6 @@ div
 {
     border-radius: 5px;
 }
-#header
-{
-    /*position:fixed;*/
-    /*z-index:1;*/
-    height:auto;
-    width:98%;
-    margin-bottom:0px;
-    /*margin:auto;*/
-}
 
 #name {
     float:left;
@@ -54,16 +45,6 @@ a:hover {
     width: 99%;
 }
 
-/*.left
-{
-    float: left;
-    margin-top: 50px;
-    /*margin-right: -90px;
-    height: relative;
-    width: 10%;
-    background-color: #4160E8;
-    }*/
-
 #footer
 {
     text-align:center;
@@ -75,45 +56,4 @@ a:hover {
 h3
 {
     /*text-decoration: underline;*/
-    }
-
-#job-responsibilities
-{
-    padding: 1px;
-    }
-.job-title
-{
-    font-weight: bold;
-    }
-table
-{
-    border: 1px dashed black;
-    }
-td
-{
-    padding: 2px;
-    border: 1px solid #E88741;
-    }
-
-#course-name
-{
-    font-weight:bold;
-    }
-
-#company-name
-{
-    height:2px;
-    text-decoration:underline;
-    }
-#job-title
-{
-    height: 5px;
-    }
-.job-duration
-{
-    float:right;
-    }
-#heading
-{
-    font-weight:bold;
-    }
+}
